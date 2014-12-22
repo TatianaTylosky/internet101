@@ -16,9 +16,7 @@ A brief work in progress description of how the internet works.
 1. The user types the URL into the browser
 2. The browser parsers URL
   * URLs are formatted like this:
-    '''
-    <protocol>://<server>/<path>
-    '''
+    `<protocol>://<server>/<path>`
 3. The browser looks up <server> via the DNS (Domain Name System)
 4. The DNS responds with an ip address
 5. Your browser connects to this ip address
