@@ -13,7 +13,7 @@ A brief work in progress description of how the internet works.
 
 ##Acts:
 
-1. The **user** types the URL (Universal Resource Locator) into the *browser*.
+1. The **user** types the URL (Universal Resource Locator) into the **browser**.
 2. The **browser** parses the URL.
   * URLs are formatted like this:
     `<protocol>://<server>/<path>`
