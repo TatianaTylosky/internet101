@@ -3,7 +3,7 @@
 A brief work in progress description of how the internet works.
 
 ![](http://i.imgur.com/PNC6GhF.png)
-[source](http://www.tomshardware.com/news/internet-browser-vlad-Gerasimo-comic-strip,11598.html)
+[image source](http://www.tomshardware.com/news/internet-browser-vlad-Gerasimo-comic-strip,11598.html)
 
 ##The characters:
 
