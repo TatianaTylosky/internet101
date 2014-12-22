@@ -8,6 +8,7 @@ A brief work in progress description of how the internet works.
 ##The characters:
 
 **The User** - Often found perusing cat videos.
+
 **The Browser** - A swift runner, he goes all around the internet collecting information for the User.
 
 ##Acts:
